@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+}
+
+a {
+    color:black;
+    padding: 25px;
+    font-size: large;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width:300px;
+}
